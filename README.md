@@ -8,7 +8,7 @@ A standalone browser app for keeping a local session journal across three indepe
 
 ## Pages
 
-- [Launch the studio](./index.html)
+- [Launch the live studio](https://tonyparker1964.github.io/Ether-Resonance-Studio/)
 - [About Ether Resonance Studio](./about.html)
 - [GitHub repository](https://github.com/tonyparker1964/Ether-Resonance-Studio)
 
