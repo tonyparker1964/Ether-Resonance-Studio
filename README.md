@@ -6,6 +6,12 @@ A standalone browser app for keeping a local session journal across three indepe
 - **Muse:** log headset, practice type, app, duration, and optional self-reported rating.
 - **FlameInSound:** log mobile device, session name, any frequency shown, playback setup, duration, and notes.
 
+## Pages
+
+- [Launch the studio](./index.html)
+- [About Ether Resonance Studio](./about.html)
+- [GitHub repository](https://github.com/tonyparker1964/Ether-Resonance-Studio)
+
 ## Use
 
 Open `index.html` in a modern browser. The app works without a build step or external libraries. Session history is saved to that browser's local storage on that device. Use **Export CSV** for a spreadsheet or **Backup JSON** to move a journal to another device.
